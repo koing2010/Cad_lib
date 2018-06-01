@@ -1,0 +1,683 @@
+\t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Sat Apr 28 14:48:13 2018
+\t (00:00:04)         Host=DESKTOP-S7SCATP User=kon Pid=13696 CPUs=8
+\t (00:00:04) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Starting new design...
+\i (00:00:07) trapsize 1496
+\i (00:00:07) trapsize 1532
+\i (00:00:07) trapsize 2141
+\i (00:00:07) trapsize 2136
+\i (00:00:07) trapsize 18280
+\i (00:00:07) generaledit 
+\i (00:00:17) open 
+\i (00:00:19) fillin "menu_cancel"
+\i (00:00:19) generaledit 
+\i (00:00:21) open 
+\i (00:00:25) fillin "menu_cancel"
+\i (00:00:25) generaledit 
+\i (00:00:29) opencd 'E:/my jinan doc/BJ reference doc/CadLib/R0603.dra' 
+\t (00:00:29) Opening existing design...
+\i (00:00:29) trapsize 361
+\i (00:00:29) trapsize 377
+\i (00:00:29) trapsize 377
+\d (00:00:29) Design opened: E:/my jinan doc/BJ reference doc/CadLib/R0603.dra
+\i (00:00:30) generaledit 
+\i (00:05:15) pick grid -2.5678 2.0879
+\t (00:05:15) last pick:  -2.5654 2.0828
+\i (00:05:24) add line 
+\i (00:05:56) pick 0 0.4 
+\t (00:05:56) last pick:  0.0000 0.4000
+\i (00:07:45) ipick 1.6 
+\t (00:07:45) last pick:  1.6000 0.4000
+\i (00:08:17) ipick 0 0.8 
+\t (00:08:17) last pick:  1.6000 1.2000
+\i (00:08:24) undo 
+\i (00:08:25) trapsize 377
+\i (00:08:25) generaledit 
+\i (00:08:27) redo 
+\i (00:08:27) trapsize 377
+\i (00:08:27) replay C:/Users/koing/AppData/Local/Temp/#Taaaaab13696.tmp 
+\i (00:08:27) scriptmode +i 
+\i (00:08:27) add line 
+\i (00:08:27) pick 0 0.4 
+\t (00:08:27) last pick:  0.0000 0.4000
+\i (00:08:27) ipick 1.6 
+\t (00:08:27) last pick:  1.6000 0.4000
+\i (00:08:27) ipick 0 0.8 
+\t (00:08:27) last pick:  1.6000 1.2000
+\i (00:08:27) done 
+\i (00:08:27) trapsize 377
+\i (00:08:27) generaledit 
+\i (00:08:29) undo 
+\i (00:08:29) trapsize 377
+\i (00:08:29) generaledit 
+\i (00:08:38) add line 
+\i (00:08:56) pick 0 0.4 
+\t (00:08:56) last pick:  0.0000 0.4000
+\i (00:09:08) ipick 1.6 
+\t (00:09:08) last pick:  1.6000 0.4000
+\i (00:09:14) ipick 0 -0.8 
+\t (00:09:14) last pick:  1.6000 -0.4000
+\i (00:09:21) ipick -1.6 
+\t (00:09:21) last pick:  0.0000 -0.4000
+\i (00:09:29) ipick 0 0.8 
+\t (00:09:29) last pick:  0.0000 0.4000
+\i (00:09:34) prepopup 1.0201 -0.1357
+\i (00:09:35) done 
+\i (00:09:35) generaledit 
+\i (00:10:04) undo 
+\i (00:10:04) trapsize 377
+\i (00:10:04) generaledit 
+\i (00:10:13) setwindow form.mini
+\i (00:10:13) FORM mini subclass ASSEMBLY_TOP 
+\t (00:10:15) last pick:  6.7186 0.6784
+\w (00:10:15) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:10:21) setwindow pcb
+\i (00:10:21) add line 
+\i (00:10:39) pick 0 .0.4 
+\t (00:10:39) last pick:  0.0000 0.0000
+\i (00:11:09) prepopup -2.7186 0.3467
+\i (00:11:12) undo 
+\i (00:11:12) trapsize 377
+\i (00:11:12) generaledit 
+\i (00:11:15) zoom out 1 
+\i (00:11:15) setwindow pcb
+\i (00:11:15) zoom out -3.4347 -2.0955
+\i (00:11:15) trapsize 377
+\i (00:11:22) add line 
+\e (00:11:34) Command not found: i 0 0.4
+\i (00:11:37) add line 
+\e (00:11:48) Command not found: i 0 0.4
+\i (00:11:51) add line 
+\i (00:11:54) pick grid 3.1533 0.8819
+\t (00:11:54) last pick:  3.1496 0.8890
+\i (00:11:55) Esc 
+\i (00:11:56) Esc 
+\i (00:11:56) Esc 
+\i (00:11:57) Esc 
+\i (00:11:57) prepopup -0.9698 2.2990
+\i (00:11:59) cancel 
+\i (00:12:00) generaledit 
+\i (00:12:02) add line 
+\i (00:12:09) pick 0 0.4 
+\t (00:12:10) last pick:  0.0000 0.4000
+\i (00:12:21) ipick 0 1.6 
+\t (00:12:21) last pick:  0.0000 2.0000
+\i (00:12:27) undo 
+\i (00:12:27) trapsize 377
+\i (00:12:27) generaledit 
+\i (00:12:47) add line 
+\i (00:12:56) pick 0 0.4 
+\t (00:12:56) last pick:  0.0000 0.4000
+\i (00:13:08) ipick 1.6 
+\t (00:13:08) last pick:  1.6000 0.4000
+\i (00:13:46) ipick 0 -0.8 
+\t (00:13:46) last pick:  1.6000 -0.4000
+\i (00:13:55) ipick -1.6 
+\t (00:13:55) last pick:  0.0000 -0.4000
+\i (00:14:03) ipick 0 0.8 
+\t (00:14:03) last pick:  0.0000 0.4000
+\i (00:14:04) done 
+\i (00:14:04) generaledit 
+\i (00:14:37) setwindow form.mini
+\i (00:14:37) FORM mini subclass SILKSCREEN_TOP 
+\i (00:17:17) setwindow pcb
+\i (00:17:17) pick grid 3.0402 1.1533
+\t (00:17:17) last pick:  3.0480 1.1430
+\i (00:17:21) color192 
+\i (00:17:22) generaledit 
+\i (00:17:25) QtSignal ColorVisibilityDialog CVDTabs currentChanged Display
+\i (00:17:27) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:17:34) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:17:41) zoom in 1 
+\i (00:17:42) setwindow pcb
+\i (00:17:42) zoom in 0.5754 0.2111
+\i (00:17:42) trapsize 188
+\i (00:17:42) zoom in 1 
+\i (00:17:42) setwindow pcb
+\i (00:17:42) zoom in 0.5754 0.2111
+\i (00:17:42) trapsize 94
+\i (00:17:42) zoom in 1 
+\i (00:17:42) setwindow pcb
+\i (00:17:42) zoom in 0.5754 0.2112
+\i (00:17:42) trapsize 47
+\i (00:17:42) zoom in 1 
+\i (00:17:43) setwindow pcb
+\i (00:17:43) zoom in 0.5754 0.2112
+\i (00:17:43) trapsize 24
+\i (00:17:43) zoom in 1 
+\i (00:17:43) setwindow pcb
+\i (00:17:43) zoom in 0.5755 0.2112
+\i (00:17:43) trapsize 12
+\i (00:17:43) zoom out 1 
+\i (00:17:43) setwindow pcb
+\i (00:17:43) zoom out 0.5755 0.2112
+\i (00:17:43) trapsize 24
+\i (00:17:43) zoom out 1 
+\i (00:17:43) setwindow pcb
+\i (00:17:43) zoom out 0.5755 0.2113
+\i (00:17:43) trapsize 47
+\i (00:17:43) zoom out 1 
+\i (00:17:43) setwindow pcb
+\i (00:17:43) zoom out 0.5754 0.2113
+\i (00:17:43) trapsize 94
+\i (00:17:43) zoom out 1 
+\i (00:17:43) setwindow pcb
+\i (00:17:43) zoom out 0.5754 0.2113
+\i (00:17:43) trapsize 188
+\i (00:17:47) zoom out 1 
+\i (00:17:47) setwindow pcb
+\i (00:17:47) zoom out 1.1559 0.3320
+\i (00:17:47) trapsize 377
+\i (00:17:50) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:17:58) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:17:58) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Top Pin
+\i (00:18:02) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (00:18:02) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Bottom Pin
+\i (00:18:04) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:18:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Top Pin
+\i (00:18:05) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (00:18:05) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Bottom Pin
+\i (00:18:05) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:18:05) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Top Pin
+\i (00:18:08) QtSignal CVDLayerTable VertHeader clickedCheckBox 2
+\i (00:18:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Soldermask_Top Pin
+\i (00:18:09) QtSignal CVDLayerTable VertHeader clickedCheckBox 3
+\i (00:18:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Soldermask_Bottom Pin
+\i (00:18:12) QtSignal CVDLayerTable VertHeader clickedCheckBox 4
+\i (00:18:12) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Pastemask_Top Pin
+\i (00:18:16) QtSignal CVDTabs CVDLayerContainer keyPressEvent 16777248 33554432 false 1
+\i (00:18:16) QtSignal CVDTabs CVDLayerContainer keyPressEvent 16777248 33554432 false 1
+\i (00:18:16) zoom in 1 
+\i (00:18:16) setwindow pcb
+\i (00:18:16) zoom in 0.2437 -0.3166
+\i (00:18:16) trapsize 188
+\i (00:18:16) QtSignal CVDTabs CVDLayerContainer keyPressEvent 16777249 67108864 false 1
+\i (00:18:16) zoom in 1 
+\i (00:18:16) setwindow pcb
+\i (00:18:16) zoom in 0.1495 -0.2751
+\i (00:18:16) trapsize 94
+\i (00:18:17) zoom in 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom in 0.1495 -0.2751
+\i (00:18:17) trapsize 47
+\i (00:18:17) zoom in 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom in 0.1495 -0.2742
+\i (00:18:17) trapsize 24
+\i (00:18:17) zoom in 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom in 0.1491 -0.2732
+\i (00:18:17) trapsize 12
+\i (00:18:17) zoom in 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom in 0.1491 -0.2727
+\i (00:18:17) trapsize 6
+\i (00:18:17) QtSignal CVDTabs CVDLayerContainer keyPressEvent 16777249 67108864 false 1
+\i (00:18:17) zoom out 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom out 0.1487 -0.2703
+\i (00:18:17) trapsize 12
+\i (00:18:17) zoom out 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom out 0.1488 -0.2703
+\i (00:18:17) trapsize 24
+\i (00:18:18) QtSignal CVDTabs CVDLayerContainer keyPressEvent 16777248 33554432 false 1
+\i (00:18:18) QtSignal CVDTabs CVDLayerContainer keyPressEvent 16777249 67108864 false 1
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out 0.1450 -0.2632
+\i (00:18:19) trapsize 47
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out 0.1448 -0.2633
+\i (00:18:19) trapsize 94
+\i (00:18:20) zoom in 1 
+\i (00:18:20) setwindow pcb
+\i (00:18:20) zoom in -0.0192 -0.1671
+\i (00:18:20) trapsize 47
+\i (00:18:20) zoom in 1 
+\i (00:18:20) setwindow pcb
+\i (00:18:20) zoom in -0.0192 -0.1671
+\i (00:18:20) trapsize 24
+\i (00:18:20) zoom in 1 
+\i (00:18:20) setwindow pcb
+\i (00:18:20) zoom in -0.0192 -0.1671
+\i (00:18:20) trapsize 12
+\i (00:18:20) zoom in 1 
+\i (00:18:20) setwindow pcb
+\i (00:18:20) zoom in -0.0191 -0.1671
+\i (00:18:20) trapsize 6
+\i (00:18:21) zoom out 1 
+\i (00:18:21) setwindow pcb
+\i (00:18:21) zoom out -0.0191 -0.1670
+\i (00:18:21) trapsize 12
+\i (00:18:21) zoom out 1 
+\i (00:18:21) setwindow pcb
+\i (00:18:21) zoom out -0.0190 -0.1671
+\i (00:18:21) trapsize 24
+\i (00:18:21) zoom out 1 
+\i (00:18:21) setwindow pcb
+\i (00:18:21) zoom out -0.0191 -0.1670
+\i (00:18:21) trapsize 47
+\i (00:18:21) zoom out 1 
+\i (00:18:21) setwindow pcb
+\i (00:18:21) zoom out -0.0191 -0.1670
+\i (00:18:21) trapsize 94
+\i (00:18:21) QtSignal CVDTabs CVDLayerContainer keyPressEvent 16777249 67108864 false 1
+\i (00:18:22) pick grid -0.0021 -0.1556
+\t (00:18:22) last pick:  0.0000 -0.1524
+\i (00:18:23) zoom in 1 
+\i (00:18:23) setwindow pcb
+\i (00:18:23) zoom in 0.0262 -0.1934
+\i (00:18:23) trapsize 47
+\i (00:18:23) zoom out 1 
+\i (00:18:23) setwindow pcb
+\i (00:18:23) zoom out 0.0262 -0.1934
+\i (00:18:23) trapsize 94
+\i (00:18:24) QtSignal CVDTabs CVDLayerContainer keyPressEvent 16777249 67108864 false 1
+\i (00:18:24) zoom out 1 
+\i (00:18:24) setwindow pcb
+\i (00:18:24) zoom out 0.2186 -0.1896
+\i (00:18:24) trapsize 189
+\i (00:18:27) pick grid 1.0597 0.0216
+\t (00:18:27) last pick:  1.0668 0.0254
+\i (00:18:28) pick grid 1.9799 -0.7289
+\t (00:18:28) last pick:  1.9812 -0.7366
+\i (00:18:31) setwindow form.mini
+\i (00:18:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:18:32) setwindow pcb
+\i (00:18:32) pick grid 2.7266 -0.0198
+\t (00:18:32) last pick:  2.7178 -0.0254
+\i (00:18:37) color192 
+\i (00:18:37) generaledit 
+\i (00:18:40) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:18:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Top Pin
+\i (00:18:45) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:18:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Top Pin
+\i (00:19:31) setwindow form.mini
+\i (00:19:31) FORM mini subclass SILKSCREEN_TOP 
+\i (00:19:35) setwindow pcb
+\i (00:19:35) add line 
+\i (00:22:31) pick 0.5175 0.4 
+\t (00:22:31) last pick:  0.5175 0.4000
+\i (00:22:58) setwindow form.mini
+\i (00:22:58) FORM mini line_width 0.2540 
+\i (00:23:20) FORM mini line_width 0.0254 
+\i (00:23:36) FORM mini line_width 0.0000 
+\i (00:23:50) FORM mini line_width 0.2540 
+\i (00:23:51) setwindow pcb
+\i (00:23:51) pick grid 2.2590 -0.2009
+\t (00:23:51) last pick:  2.2606 -0.2032
+\i (00:23:52) undo 
+\i (00:23:52) trapsize 189
+\i (00:23:53) generaledit 
+\i (00:23:54) pick grid 3.2961 -0.1368
+\t (00:23:54) last pick:  3.3020 -0.1270
+\i (00:23:56) add line 
+\i (00:24:39) setwindow form.mini
+\i (00:24:39) FORM mini line_width 0.1270 
+\i (00:24:41) setwindow pcb
+\i (00:24:41) add line 
+\i (00:25:39) pick 0.5175 0.4 
+\t (00:25:39) last pick:  0.5175 0.4000
+\i (00:25:56) ipick 0.565 
+\t (00:25:56) last pick:  1.0825 0.4000
+\i (00:26:02) prepopup 0.7391 0.3460
+\i (00:26:03) done 
+\i (00:26:03) generaledit 
+\i (00:26:12) add line 
+\i (00:26:29) ipick 05175 -0.4 
+\t (00:26:29) last pick:  5176.0825 0.0000
+\w (00:26:29) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:26:31) roam y -96 
+\i (00:26:31) roam y -96
+\i (00:26:43) pick 0.5175 -0.4 
+\t (00:26:43) last pick:  0.5175 -0.4000
+\i (00:26:52) ipick 0.565 
+\t (00:26:52) last pick:  1.0825 -0.4000
+\i (00:26:58) done 
+\i (00:26:58) generaledit 
+\i (00:28:24) shape add rect 
+\i (00:28:44) setwindow form.mini
+\i (00:28:44) FORM mini subclass PLACE_BOUND_TOP 
+\e (00:30:26) Command not found: i x -0.5845 0.5
+\i (00:30:49) setwindow pcb
+\i (00:30:49) pick 0.5845 0.5 
+\t (00:30:49) last pick:  0.5845 0.5000
+\i (00:30:57) Esc 
+\i (00:30:57) generaledit 
+\i (00:30:58) shape add rect 
+\i (00:31:27) pick -0.4825 0.5 
+\t (00:31:27) last pick:  -0.4825 0.5000
+\i (00:32:49) pick 1.7 -0.5 
+\t (00:32:49) last pick:  1.7000 -0.5000
+\i (00:32:52) pick grid 0.7994 -0.8428
+\t (00:32:53) last pick:  0.7874 -0.8382
+\i (00:32:54) Esc 
+\i (00:32:54) generaledit 
+\i (00:32:54) pick grid 1.1690 -0.8051
+\t (00:32:54) last pick:  1.1684 -0.8128
+\i (00:32:57) drag_start grid 1.7008 -0.4920
+\i (00:32:57) move 
+\t (00:32:57) last pick:  1.7018 -0.4826
+\t (00:32:57) Element has no origin, using pick.
+\t (00:32:57) Pick new location for the element(s).
+\i (00:32:57) drag_stop grid 1.8630 -0.4845
+\i (00:32:57) generaledit 
+\i (00:32:59) undo 
+\i (00:32:59) trapsize 189
+\i (00:32:59) generaledit 
+\i (00:33:01) pick grid 0.7165 -0.0847
+\t (00:33:01) last pick:  0.7112 -0.0762
+\i (00:33:01) pick grid dbl 0.7165 -0.0847
+\t (00:33:01) last pick:  0.7112 -0.0762
+\i (00:33:02) pick grid -0.2038 -0.5147
+\t (00:33:02) last pick:  -0.2032 -0.5080
+\i (00:33:03) prepopup -0.1887 -0.5033
+\i (00:33:05) pick grid -0.3131 -0.4996
+\t (00:33:05) last pick:  -0.3048 -0.5080
+\i (00:33:06) pick grid -0.3131 -0.4996
+\t (00:33:06) last pick:  -0.3048 -0.5080
+\i (00:33:06) pick grid dbl -0.3131 -0.4996
+\t (00:33:06) last pick:  -0.3048 -0.5080
+\i (00:33:06) pick grid -0.3131 -0.4996
+\t (00:33:06) last pick:  -0.3048 -0.5080
+\i (00:33:08) pick grid 1.5349 0.4848
+\t (00:33:08) last pick:  1.5240 0.4826
+\i (00:33:11) prepopup 0.8560 -0.2846
+\i (00:33:14) pop dyn_option_select @:@Fix 
+\i (00:33:14) fix 
+\i (00:33:14) generaledit 
+\i (00:33:15) pick grid 0.8899 0.0020
+\t (00:33:15) last pick:  0.8890 0.0000
+\i (00:33:16) prepopup 0.8786 -0.0319
+\i (00:33:19) pick grid 0.8183 -0.5863
+\t (00:33:19) last pick:  0.8128 -0.5842
+\i (00:33:19) pick grid 0.7429 -0.2092
+\t (00:33:19) last pick:  0.7366 -0.2032
+\i (00:33:20) pick grid 0.8975 0.0058
+\t (00:33:20) last pick:  0.8890 0.0000
+\i (00:33:21) pick grid 1.5311 0.4999
+\t (00:33:21) last pick:  1.5240 0.5080
+\e (00:33:21) Command not found: Del
+\i (00:33:26) undo 
+\i (00:33:26) trapsize 189
+\i (00:33:26) generaledit 
+\i (00:33:28) pick grid -0.4338 0.4244
+\t (00:33:28) last pick:  -0.4318 0.4318
+\i (00:33:29) pick grid -0.3810 0.4697
+\t (00:33:29) last pick:  -0.3810 0.4572
+\i (00:33:32) pick grid -0.3961 0.5376
+\t (00:33:32) last pick:  -0.4064 0.5334
+\i (00:33:34) pick grid 1.3991 0.4961
+\t (00:33:34) last pick:  1.3970 0.5080
+\i (00:33:36) delete 
+\i (00:33:37) generaledit 
+\i (00:34:20) shape add rect 
+\i (00:35:05) pick -0.5825 
+\t (00:35:05) last pick:  -0.5825 0.5080
+\i (00:35:30) Esc 
+\i (00:35:30) generaledit 
+\i (00:35:32) shape add rect 
+\i (00:35:44) pick -0.5825 -0.5 
+\t (00:35:44) last pick:  -0.5825 -0.5000
+\i (00:36:40) pick 2.182 0.5 
+\t (00:36:40) last pick:  2.1820 0.5000
+\i (00:38:15) setwindow form.mini
+\i (00:38:15) FORM mini class REF DES 
+\i (00:38:40) setwindow pcb
+\i (00:38:40) add text 
+\t (00:38:40) Pick text location.
+\i (00:38:47) pick grid -0.3848 0.5866
+\t (00:38:47) last pick:  -0.3810 0.5842
+\t (00:38:47) Enter text string.
+\i (00:38:49) setwindow pcb
+\i (00:38:49) pick grid -0.0944 0.6318
+\t (00:38:49) last pick:  -0.1016 0.6350
+\t (00:38:49) Enter text string.
+\i (00:38:50) setwindow pcb
+\i (00:38:50) pick grid -0.0114 0.6922
+\t (00:38:50) last pick:  0.0000 0.6858
+\t (00:38:50) Enter text string.
+\i (00:39:55) setwindow pcb
+\i (00:39:55) pick grid 0.2073 0.8845
+\t (00:39:55) last pick:  0.2032 0.8890
+\t (00:39:55) Enter text string.
+\i (00:39:55) setwindow pcb
+\i (00:39:55) pick grid dbl 0.2073 0.8845
+\t (00:39:55) last pick:  0.2032 0.8890
+\t (00:39:55) Enter text string.
+\i (00:39:58) setwindow pcb
+\i (00:39:58) pick grid 0.5053 0.9637
+\t (00:39:58) last pick:  0.5080 0.9652
+\t (00:39:58) Enter text string.
+\i (00:40:00) setwindow pcb
+\i (00:40:00) pick grid 0.5090 0.9675
+\t (00:40:00) last pick:  0.5080 0.9652
+\t (00:40:00) Enter text string.
+\i (00:40:01) setwindow pcb
+\i (00:40:01) prepopup 0.5618 0.9637
+\i (00:40:02) done 
+\i (00:40:02) generaledit 
+\i (00:40:03) pick grid 0.3544 0.8619
+\t (00:40:03) last pick:  0.3556 0.8636
+\i (00:40:04) pick grid -0.0642 0.6055
+\t (00:40:04) last pick:  -0.0762 0.6096
+\i (00:40:04) pick grid -0.2339 0.7035
+\t (00:40:04) last pick:  -0.2286 0.7112
+\i (00:41:00) add text 
+\t (00:41:00) Pick text location.
+\i (00:41:08) pick grid 0.1130 -0.0281
+\t (00:41:08) last pick:  0.1016 -0.0254
+\t (00:41:08) Enter text string.
+\i (00:41:10) setwindow pcb
+\i (00:41:10) pick grid 0.1394 -0.0432
+\t (00:41:10) last pick:  0.1270 -0.0508
+\t (00:41:10) Enter text string.
+\i (00:41:13) setwindow pcb
+\i (00:41:13) pick grid 0.2903 -0.1865
+\t (00:41:13) last pick:  0.2794 -0.1778
+\t (00:41:13) Enter text string.
+\i (00:41:13) setwindow pcb
+\i (00:41:13) pick grid dbl 0.2903 -0.1865
+\t (00:41:13) last pick:  0.2794 -0.1778
+\t (00:41:13) Enter text string.
+\i (00:41:15) setwindow pcb
+\i (00:41:15) pick grid 0.4072 -0.1903
+\t (00:41:15) last pick:  0.4064 -0.1778
+\t (00:41:15) Enter text string.
+\i (00:41:15) setwindow pcb
+\i (00:41:15) pick grid dbl 0.4072 -0.1903
+\t (00:41:15) last pick:  0.4064 -0.1778
+\t (00:41:15) Enter text string.
+\i (00:41:19) setwindow pcb
+\i (00:41:19) pick 0.4064 -0.1778
+\i (00:42:28) move 
+\t (00:42:28) Select element(s) to move.
+\i (00:42:29) pick grid 0.7806 0.1227
+\t (00:42:29) last pick:  0.7874 0.1270
+\t (00:42:29) last pick:  0.4064 -0.1778
+\t (00:42:29) Pick new location for the element(s).
+\i (00:42:31) pick grid -0.5658 0.5263
+\t (00:42:31) last pick:  -0.5588 0.5334
+\i (00:42:36) pick grid 0.3582 1.0090
+\t (00:42:36) last pick:  0.3556 1.0160
+\t (00:42:37) last pick:  -0.5588 0.5334
+\t (00:42:37) Pick new location for the element(s).
+\i (00:42:39) pick grid -0.5960 0.5187
+\t (00:42:39) last pick:  -0.5842 0.5080
+\i (00:42:47) add text 
+\t (00:42:47) Pick text location.
+\i (00:42:58) setwindow form.mini
+\i (00:42:58) FORM mini subclass ASSEMBLY_TOP 
+\i (00:43:02) setwindow pcb
+\i (00:43:02) add text 
+\t (00:43:02) Pick text location.
+\i (00:43:39) move 
+\t (00:43:39) Select element(s) to move.
+\i (00:43:40) drag_start grid -1.4785 0.2547
+\i (00:43:40) drag_stop -0.3961 0.0322
+\i (00:43:42) pick grid -1.5049 0.1981
+\t (00:43:42) last pick:  -1.4986 0.2032
+\t (00:43:42) Element has no origin, using pick.
+\t (00:43:42) Pick new location for the element(s).
+\i (00:43:44) Esc 
+\i (00:43:45) Esc 
+\i (00:43:46) Esc 
+\i (00:43:47) prepopup -1.2183 0.2396
+\i (00:43:48) cancel 
+\i (00:43:48) generaledit 
+\i (00:44:51) pick grid 0.1847 0.6582
+\t (00:44:51) last pick:  0.1778 0.6604
+\i (00:44:56) setwindow form.mini
+\i (00:44:56) FORM mini subclass SILKSCREEN_TOP 
+\i (00:45:02) setwindow pcb
+\i (00:45:02) color192 
+\i (00:45:02) generaledit 
+\i (00:45:08) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:45:19) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:45:20) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:45:24) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:45:31) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Surface finishes"
+\i (00:45:36) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:45:40) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:45:43) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:45:45) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:45:51) pick grid 0.6184 0.7865
+\t (00:45:51) last pick:  0.6096 0.7874
+\i (00:45:54) pick grid 0.6109 0.8053
+\t (00:45:54) last pick:  0.6096 0.8128
+\i (00:46:03) setwindow form.mini
+\i (00:46:03) FORM mini subclass ASSEMBLY_TOP 
+\i (00:46:06) setwindow pcb
+\i (00:46:06) add text 
+\t (00:46:06) Pick text location.
+\i (00:46:08) pick grid 0.0225 0.0020
+\t (00:46:08) last pick:  0.0254 0.0000
+\t (00:46:08) Enter text string.
+\i (00:46:13) setwindow pcb
+\i (00:46:13) pick grid 0.6561 0.0925
+\t (00:46:13) last pick:  0.6604 0.1016
+\i (00:46:13) setwindow pcb
+\i (00:46:13) pick 0.0254 0.0000
+\i (00:46:16) prepopup -0.9203 0.8694
+\i (00:46:18) done 
+\i (00:46:18) generaledit 
+\i (00:46:20) move 
+\t (00:46:20) last pick:  -0.5842 0.5080
+\t (00:46:20) Pick new location for the element(s).
+\i (00:46:21) Esc 
+\i (00:46:22) Esc 
+\i (00:46:23) prepopup -0.8562 0.7035
+\i (00:46:24) cancel 
+\i (00:46:24) generaledit 
+\i (00:46:25) pick grid 0.5694 0.3867
+\t (00:46:25) last pick:  0.5588 0.3810
+\i (00:46:25) pick grid 1.0597 0.5753
+\t (00:46:25) last pick:  1.0668 0.5842
+\i (00:46:28) move 
+\t (00:46:28) last pick:  0.0254 0.0000
+\t (00:46:28) Pick new location for the element(s).
+\i (00:46:31) pick grid -0.0076 -0.3110
+\t (00:46:31) last pick:  0.0000 -0.3048
+\i (00:46:31) generaledit 
+\i (00:46:32) Esc 
+\i (00:46:33) pick grid -1.0976 -0.2544
+\t (00:46:33) last pick:  -1.0922 -0.2540
+\i (00:46:38) pick grid 2.7304 -0.0545
+\t (00:46:38) last pick:  2.7178 -0.0508
+\i (00:46:42) color192 
+\i (00:46:43) generaledit 
+\i (00:46:56) QtSignal CVPLayerGrid CVPMasksLabel clicked false
+\i (00:46:57) QtSignal CVPLayerGrid CVPMasksLabel clicked true
+\i (00:47:00) QtSignal CVPLayerGrid CVPAll_LayersPlan clicked false
+\i (00:47:01) QtSignal CVPLayerGrid CVPAll_LayersPlan clicked true
+\i (00:47:07) color192 
+\i (00:47:07) generaledit 
+\i (00:47:38) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:47:45) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:47:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly_Detail BrdGeo
+\i (00:47:46) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:47:46) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly_Detail BrdGeo
+\i (00:47:46) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:47:48) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:47:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly_Bottom PkgGeo
+\i (00:47:49) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:47:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly_Bottom PkgGeo
+\i (00:47:50) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Embedded geometry"
+\i (00:47:51) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:47:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly EmbGeo
+\i (00:47:52) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:47:52) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly EmbGeo
+\i (00:48:02) pick grid 0.4147 0.8355
+\t (00:48:03) last pick:  0.4064 0.8382
+\e (00:48:04) Command not found: Del
+\i (00:48:05) delete 
+\i (00:48:05) generaledit 
+\i (00:48:08) setwindow form.mini
+\i (00:48:08) FORM mini subclass SILKSCREEN_BOTTOM 
+\i (00:48:10) setwindow pcb
+\i (00:48:10) pick grid -0.9279 0.9713
+\t (00:48:10) last pick:  -0.9398 0.9652
+\i (00:48:13) add text 
+\t (00:48:13) Pick text location.
+\i (00:48:14) pick grid 0.1960 0.6658
+\t (00:48:14) last pick:  0.2032 0.6604
+\t (00:48:14) Enter text string.
+\i (00:48:21) setwindow pcb
+\i (00:48:21) pick 0.2032 0.6604
+\i (00:48:23) move 
+\t (00:48:24) Select element(s) to move.
+\i (00:48:25) drag_start grid 0.7466 0.8958
+\i (00:48:25) drag_stop -0.1811 0.7789
+\t (00:48:25) last pick:  0.2032 0.6604
+\t (00:48:25) Pick new location for the element(s).
+\i (00:48:28) pick grid -0.5470 0.5263
+\t (00:48:28) last pick:  -0.5588 0.5334
+\i (00:48:29) Esc 
+\i (00:48:30) pick grid -1.3691 0.8845
+\t (00:48:30) last pick:  -1.3716 0.8890
+\i (00:48:31) pick grid 2.7115 0.6243
+\t (00:48:31) last pick:  2.7178 0.6350
+\i (00:48:33) save 
+\i (00:48:37) fillin yes 
+\t (00:48:37) Symbol 'r0603.psm' created.
+\i (00:48:37) generaledit 
+\i (00:48:38) pick grid 3.1188 -0.2167
+\t (00:48:38) last pick:  3.1242 -0.2286
+\i (00:48:41) pick grid 3.0962 -0.1979
+\t (00:48:41) last pick:  3.0988 -0.2032
+\i (00:49:46) setwindow form.mini
+\i (00:49:46) FORM mini class BOARD GEOMETRY 
+\i (00:51:38) FORM mini class COMPONENT VALUE 
+\i (00:51:45) FORM mini class BOARD GEOMETRY 
+\i (00:52:02) setwindow pcb
+\i (00:52:02) pick grid 1.8328 0.0850
+\t (00:52:02) last pick:  1.8288 0.0762
+\i (00:52:04) pick grid 1.9874 0.2019
+\t (00:52:04) last pick:  1.9812 0.2032
+\i (00:52:04) pick grid dbl 1.9874 0.2019
+\t (00:52:04) last pick:  1.9812 0.2032
+\i (00:52:05) pick grid 3.5789 0.1491
+\t (00:52:05) last pick:  3.5814 0.1524
+\i (00:52:18) setwindow form.mini
+\i (00:52:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:52:22) FORM mini subclass ASSEMBLY_TOP 
+\i (00:52:23) setwindow pcb
+\i (00:52:23) pick grid 2.8435 0.3075
+\t (00:52:23) last pick:  2.8448 0.3048
+\i (00:54:23) setwindow form.mini
+\i (00:54:23) FORM mini subclass SILKSCREEN_TOP 
+\i (00:54:29) FORM mini subcolor 0 
+\i (00:54:31) FORM mini subcolor 1 
+\i (00:54:32) FORM mini subcolor 0 
+\i (00:54:33) FORM mini subcolor 1 
+\i (01:25:01) setwindow pcb
+\i (01:25:01) pick grid 3.5714 -0.5147
+\t (01:25:01) last pick:  3.5814 -0.5080
+\i (01:42:58) Esc 
+\i (92:16:46) exit 
+\t (92:16:46)     Journal end - Wed May 02 11:04:55 2018

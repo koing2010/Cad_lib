@@ -1,0 +1,17 @@
+\t (00:00:08) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Wed May 02 15:23:26 2018
+\t (00:00:08)         Host=DESKTOP-S7SCATP User=kon Pid=14292 CPUs=8
+\t (00:00:08) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:08) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\d (00:00:09) Design opened: E:/my jinan doc/BJ reference doc/CadLib/R0603.dra
+\i (00:00:09) trapsize 192
+\i (00:00:09) trapsize 196
+\i (00:00:09) trapsize 196
+\i (00:00:10) trapsize 189
+\i (00:00:10) trapsize 3390
+\i (00:00:10) generaledit 
+\i (00:00:13) new 
+\i (00:01:06) newdrawfillin "VHF_AMP.brd" "Board"
+\t (00:01:06)     Journal end - Wed May 02 15:24:25 2018

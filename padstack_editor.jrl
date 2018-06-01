@@ -1,0 +1,13 @@
+\t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Apr 28 15:37:01 2018
+\t (00:00:00)         Host=DESKTOP-S7SCATP User=kon Pid=18064 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\cadence_spb_17.2-2016\tools\bin\padstack_editor.exe E:\my jinan doc\BJ reference doc\CadLib\rectw0_96h0_8.pad
+\t (00:00:00) 
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:11) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:15) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:16) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\t (00:00:19)     Journal end - Sat Apr 28 15:37:20 2018

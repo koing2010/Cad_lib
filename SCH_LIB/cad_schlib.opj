@@ -1,0 +1,37 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\cad_schlib.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "e:\my jinan doc\bj reference doc\cadlib\sch_lib\cad_schlib.olb")
+      (Select "Design Resources"
+         "e:\my jinan doc\bj reference doc\cadlib\sch_lib\cad_schlib.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 434"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1663 208 824")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3531 1705")
+        (Zoom "336"))
+      (Path "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
+      (Package "AD8307")))
+  (MPSSessionName "kon"))
