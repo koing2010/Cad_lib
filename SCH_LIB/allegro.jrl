@@ -1,0 +1,37 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Jun 12 17:27:27 2018
+\t (00:00:00)         Host=DESKTOP-S7SCATP User=kon Pid=10828 CPUs=8
+\t (00:00:00) CmdLine= C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/bin/allegro.exe fx3_6y0_8
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 714
+\i (00:00:00) trapsize 731
+\i (00:00:00) trapsize 1071
+\i (00:00:00) generaledit 
+\i (00:00:12) pick grid -51.6 42.8
+\t (00:00:12) last pick:  -50.0 50.0
+\i (00:00:17) pick grid -10350.1 -7921.9
+\t (00:00:17) last pick:  -10350.0 -7925.0
+\i (00:00:18) pick grid 119.7 -192.7
+\t (00:00:18) last pick:  125.0 -200.0
+\i (00:00:19) pick grid -30.2 364.0
+\t (00:00:19) last pick:  -25.0 375.0
+\i (00:00:20) pick grid 8405.5 3511.3
+\t (00:00:20) last pick:  8400.0 3500.0
+\i (00:00:21) pick grid 3138.5 3254.4
+\t (00:00:21) last pick:  3150.0 3250.0
+\i (00:00:21) pick grid -2749.4 3168.8
+\t (00:00:21) last pick:  -2750.0 3175.0
+\i (00:00:22) pick grid 398.0 1006.3
+\t (00:00:22) last pick:  400.0 1000.0
+\i (00:00:23) pick grid -51.6 0.0
+\t (00:00:23) last pick:  -50.0 0.0
+\i (00:00:25) pick grid -10414.4 -8350.1
+\t (00:00:25) last pick:  -10425.0 -8350.0
+\i (00:00:27) pick grid -222.9 0.0
+\t (00:00:27) last pick:  -225.0 0.0
+\i (00:00:29) exit 
+\e (00:00:29) Do you want to save the changes you made to fx3_6y0_8.dra?
+\i (00:00:30) fillin no 
+\t (00:00:30)     Journal end - Tue Jun 12 17:27:57 2018
