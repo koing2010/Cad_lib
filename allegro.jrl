@@ -1,136 +1,20 @@
-\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Wed Jun 20 16:28:21 2018
-\t (00:00:02)         Host=DESKTOP-S7SCATP User=kon Pid=17900 CPUs=8
-\t (00:00:02) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe E:\my jinan doc\BJ reference doc\CadLib\FPT-16P-M06.dra
-\t (00:00:02) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:02) Opening existing design...
-\d (00:00:02) Design opened: E:/my jinan doc/BJ reference doc/CadLib/FPT-16P-M06.dra
-\i (00:00:02) trapsize 999
-\i (00:00:02) trapsize 1024
-\i (00:00:02) trapsize 1024
-\i (00:00:03) generaledit 
-\i (00:00:06) zoom in 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom in -1.0903 3.6229
-\i (00:00:06) trapsize 512
-\i (00:00:06) zoom in 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom in -1.0903 3.6229
-\i (00:00:06) trapsize 256
-\i (00:00:06) zoom in 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom in -1.0902 3.6229
-\i (00:00:06) trapsize 128
-\i (00:00:06) zoom in 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom in -1.0902 3.6255
-\i (00:00:06) trapsize 64
-\i (00:00:07) zoom out 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom out -1.0914 3.6268
-\i (00:00:07) trapsize 128
-\i (00:00:07) zoom out 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom out -1.0915 3.6268
-\i (00:00:07) trapsize 256
-\i (00:00:07) zoom out 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom out -1.0915 3.6268
-\i (00:00:07) trapsize 512
-\i (00:00:07) zoom out 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom out -1.0914 3.6267
-\i (00:00:07) trapsize 1024
-\i (00:00:08) pick grid -3.4243 4.2000
-\t (00:00:08) last pick:  -2.5400 5.0800
-\i (00:00:09) pick grid -3.3220 4.3433
-\t (00:00:09) last pick:  -2.5400 5.0800
-\i (00:00:09) pick grid dbl -3.3220 4.3433
-\t (00:00:09) last pick:  -2.5400 5.0800
-\i (00:00:10) pick grid -3.6495 3.1149
-\t (00:00:10) last pick:  -2.5400 2.5400
-\i (00:00:12) zoom out 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom out 5.0312 2.3574
-\i (00:00:13) trapsize 1918
-\i (00:00:13) zoom out 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom out 15.0027 4.4103
-\i (00:00:13) trapsize 1918
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in 15.0027 4.4103
-\i (00:00:13) trapsize 959
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in 5.8675 4.4103
-\i (00:00:13) trapsize 479
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in 5.8675 4.4103
-\i (00:00:13) trapsize 240
-\i (00:00:14) zoom out 1 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) zoom out 5.8675 4.4103
-\i (00:00:14) trapsize 479
-\i (00:00:14) zoom out 1 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) zoom out 5.8676 4.4103
-\i (00:00:14) trapsize 959
-\i (00:00:14) zoom out 1 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) zoom out 5.8675 4.4103
-\i (00:00:14) trapsize 1918
-\t (00:00:23) last pick:  34.5229 7.2098
-\w (00:00:23) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in 1.0433 2.3394
-\i (00:00:24) trapsize 959
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in -1.1123 2.3394
-\i (00:00:24) trapsize 479
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in -1.1122 2.3394
-\i (00:00:24) trapsize 240
-\i (00:00:24) zoom out 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom out -1.1122 2.3394
-\i (00:00:24) trapsize 479
-\i (00:00:24) zoom out 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom out -1.1122 2.3395
-\i (00:00:24) trapsize 959
-\i (00:00:29) zoom in 1 
-\i (00:00:29) setwindow pcb
-\i (00:00:29) zoom in -2.0901 2.3778
-\i (00:00:29) trapsize 479
-\i (00:00:29) zoom in 1 
-\i (00:00:29) setwindow pcb
-\i (00:00:29) zoom in -2.0900 2.3778
-\i (00:00:29) trapsize 240
-\i (00:00:30) zoom out 1 
-\i (00:00:30) setwindow pcb
-\i (00:00:30) zoom out -2.0900 2.3778
-\i (00:00:30) trapsize 479
-\i (00:00:30) zoom out 1 
-\i (00:00:30) setwindow pcb
-\i (00:00:30) zoom out -2.0899 2.3778
-\i (00:00:30) trapsize 959
-\i (00:00:30) zoom out 1 
-\i (00:00:30) setwindow pcb
-\i (00:00:30) zoom out -2.0901 2.3779
-\i (00:00:30) trapsize 1918
-\i (00:13:42) pick grid -8.1608 0.3835
-\t (00:13:42) last pick:  -7.6200 0.0000
-\i (00:14:15) prmed 
-\i (00:14:17) setwindow form.prmedit
-\i (00:14:17) FORM prmedit design  
-\i (00:14:24) FORM prmedit cancel  
-\i (00:14:24) setwindow pcb
-\i (00:14:24) generaledit 
-\i (01:20:55) exit 
-\t (01:20:55)     Journal end - Wed Jun 20 17:49:14 2018
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Jun 21 09:40:38 2018
+\t (00:00:03)         Host=DESKTOP-S7SCATP User=kon Pid=20188 CPUs=8
+\t (00:00:03) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: E:/my jinan doc/BJ reference doc/CadLib/FPT-16P-M06.dra
+\i (00:00:05) trapsize 999
+\i (00:00:05) trapsize 1024
+\i (00:00:06) trapsize 1024
+\i (00:00:06) generaledit 
+\i (00:00:09) open 
+\i (00:00:26) fillin "E:\my jinan doc\BJ reference doc\RFSignalGenerator\RFSGlayout\RFSG_PCB1.brd"
+\i (00:00:26) cd "E:\my jinan doc\BJ reference doc\RFSignalGenerator\RFSGlayout"
+\t (00:00:26) Opening existing design...
+\i (00:00:26) trapsize 2745
+\i (00:00:26) trapsize 2812
+\i (00:00:26) trapsize 2817
+\t (00:00:26)     Journal end - Thu Jun 21 09:41:01 2018

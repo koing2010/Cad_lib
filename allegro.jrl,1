@@ -1,118 +1,175 @@
-\t (00:01:13) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:01:13)     Journal start - Wed Jun 20 15:44:09 2018
-\t (00:01:13)         Host=DESKTOP-S7SCATP User=kon Pid=5780 CPUs=8
-\t (00:01:13) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:01:13) 
-\t (00:01:13) Starting new design...
-\i (00:01:13) trapsize 694
-\i (00:01:13) trapsize 710
-\i (00:01:14) trapsize 1071
-\i (00:01:14) trapsize 1071
-\i (00:01:14) package symbol wizard 
-   (00:01:19) Loading cmds.cxt 
-\i (00:01:19) setwindow form.sym_wizard
-\i (00:01:19) FORM sym_wizard rca_smd YES 
-\i (00:01:20) FORM sym_wizard rca_th YES 
-\i (00:01:21) FORM sym_wizard bga YES 
-\i (00:01:21) FORM sym_wizard plcc YES 
-\i (00:01:22) FORM sym_wizard soic YES 
-\e (00:02:46) Command not found: xhilite
-\i (00:02:46) setwindow pcb
-\i (00:02:46) xname_flush 
-\e (00:02:46) No command active
-\i (00:02:46) done 
-\e (00:02:46) No command active
-\e (00:03:01) Command not found: xhilite
-\i (00:03:01) xname_flush 
-\e (00:03:01) No command active
-\i (00:03:01) done 
-\e (00:03:01) No command active
-\e (00:03:32) Command not found: xhilite
-\i (00:03:32) xname_flush 
-\e (00:03:32) No command active
-\i (00:03:32) done 
-\e (00:03:32) No command active
-\i (00:03:45) setwindow form.sym_wizard
-\i (00:03:45) FORM sym_wizard wiz_next  
-\i (00:03:49) FORM sym_wizard wiz_next  
-\i (00:04:01) fillin confirm
-\i (00:04:04) FORM sym_wizard use_custom_template YES 
-\i (00:04:07) FORM sym_wizard template_browse  
-\i (00:04:11) fillin "menu_cancel"
-\i (00:04:15) FORM sym_wizard load_template  
-\i (00:04:17) fillin confirm
-\i (00:04:18) FORM sym_wizard no_custom_template YES 
-\i (00:04:28) FORM sym_wizard wiz_next  
-\i (00:04:29) fillin confirm
-\i (00:04:36) FORM sym_wizard wiz_next  
-\i (00:04:39) fillin confirm
-\i (00:04:45) FORM sym_wizard wiz_next  
-\i (00:05:35) fillin confirm
-\i (00:05:51) FORM sym_wizard wiz_next  
-\i (00:05:52) fillin confirm
-\i (00:05:53) FORM sym_wizard wiz_back  
-\i (00:05:54) FORM sym_wizard wiz_back  
-\i (00:05:55) FORM sym_wizard wiz_next  
-\i (00:05:57) fillin confirm
-\i (00:05:58) FORM sym_wizard wiz_next  
-\i (00:05:59) fillin confirm
-\i (00:06:00) FORM sym_wizard help  
-\e (00:06:51) ERROR (HELPAPI-023): A connection to the server could not be established. The file USERPROFILE/.config/cadence/.port could not be created by the server process.
-Check the permissions to the USERPROFILIE/.config/cadence directory, kill any running Cadence Help process, and try again.
- If the problem persists, this can be due to unconfigured documentation hierarchy. You can configure the documentation hierarchy by running Cadence Help with -r switch. Otherwise, contact Cadence customer support.
-\i (00:06:57) fillin confirm
-\i (00:06:58) FORM sym_wizard load_template  
-\t (00:06:58) Opening existing design...
-\i (00:07:00) fillin yes 
-\t (00:07:00) Grids are drawn 200, 200 apart for enhanced viewability.
-\i (00:07:00) setwindow pcb
-\i (00:07:00) trapsize 150
-\i (00:07:00) trapsize 153
-\t (00:07:00) Grids are drawn 200, 200 apart for enhanced viewability.
-\i (00:07:00) trapsize 214
-\d (00:07:00) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols/template/sym_template.dra
-\t (00:07:01) Grids are drawn 3200, 3200 apart for enhanced viewability.
-\i (00:07:04) setwindow form.sym_wizard
-\i (00:07:04) FORM sym_wizard wiz_next  
-\i (00:07:10) FORM sym_wizard pack_units Millimeter 
-\i (00:07:11) FORM sym_wizard pack_units_create Millimeter 
-\i (00:08:21) FORM sym_wizard pack_precision 4 
-\i (00:08:26) FORM sym_wizard pack_precision_create 4 
-\i (00:08:32) FORM sym_wizard wiz_next  
-\i (00:10:02) FORM sym_wizard sop_pin_count 16 
-\i (00:10:16) FORM sym_wizard sop_width 5.3000 
-\i (00:10:50) FORM sym_wizard sop_len 10.1500 
-\i (00:12:16) FORM sym_wizard sop_e1 6.8000 
-\i (00:12:16) FORM sym_wizard wiz_next  
-\i (00:12:41) FORM sym_wizard default_pad_browse  
-\i (00:12:48) fillin "menu_cancel"
-\i (00:13:31) FORM sym_wizard default_pad_browse  
-\i (00:40:15) fillin "menu_cancel"
-\i (00:40:16) FORM sym_wizard default_pad_browse  
-\i (00:40:22) fillin "smd.pad"
-\i (00:40:24) FORM sym_wizard default_pad_browse  
-\e (00:40:40) ERROR(SPMHUT-1): Illegal character(s) present in the name or value.
-\i (00:40:48) fillin "Smd_X1_5Y0_6"
-\i (00:40:51) FORM sym_wizard wiz_next  
-\i (00:40:54) FORM sym_wizard origin_at_pin1 YES 
-\i (00:40:56) FORM sym_wizard origin_at_body_center YES 
-\i (00:41:02) FORM sym_wizard wiz_next  
-\i (00:41:04) FORM sym_wizard wiz_finish  
-\t (00:41:04) Grids are drawn 5.0800, 5.0800 apart for enhanced viewability.
-\i (00:41:04) setwindow pcb
-\i (00:41:04) trapsize 54383
-\t (00:41:04) Performing DRC...
-\t (00:41:04) No DRC errors detected.
-\i (00:41:04) trapsize 54383
-\i (00:41:04) trapsize 7678
-\i (00:41:04) trapsize 1024
-\i (00:41:04) trapsize 1024
-\t (00:41:04) Creating package symbol 'E:/my jinan doc/BJ reference doc/CadLib/fpt-16p-m06.psm'.
-\t (00:41:04) Starting Create symbol...
-\i (00:41:04) generaledit 
-\i (00:41:08) save 
-\i (00:41:10) fillin yes 
-\t (00:41:10) Symbol 'fpt-16p-m06.psm' created.
-\i (00:41:10) generaledit 
-\i (00:41:12) exit 
-\t (00:41:12)     Journal end - Wed Jun 20 16:24:08 2018
+\t (00:00:05) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Thu Jun 21 09:40:07 2018
+\t (00:00:05)         Host=DESKTOP-S7SCATP User=kon Pid=17988 CPUs=8
+\t (00:00:05) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: E:/my jinan doc/BJ reference doc/CadLib/FPT-16P-M06.dra
+\i (00:00:07) trapsize 999
+\i (00:00:07) trapsize 1024
+\i (00:00:07) trapsize 1024
+\i (00:00:07) generaledit 
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 3.6595 -2.8672
+\i (00:00:09) trapsize 512
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 3.6596 -2.8570
+\i (00:00:09) trapsize 256
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 3.6596 -2.8468
+\i (00:00:09) trapsize 128
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 3.6596 -2.8467
+\i (00:00:09) trapsize 64
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 3.6596 -2.8467
+\i (00:00:09) trapsize 128
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 3.6622 -2.8441
+\i (00:00:10) trapsize 256
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 3.6621 -2.8440
+\i (00:00:10) trapsize 512
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 3.6622 -2.8441
+\i (00:00:10) trapsize 1024
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 3.6622 -2.8441
+\i (00:00:10) trapsize 512
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 3.6622 -2.8236
+\i (00:00:10) trapsize 1024
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 3.6622 -2.7417
+\i (00:00:10) trapsize 512
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 3.6622 -2.7314
+\i (00:00:10) trapsize 1024
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 3.6622 -2.7314
+\i (00:00:10) trapsize 1918
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 12.4716 -5.0239
+\i (00:00:10) trapsize 1918
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 12.4716 -5.0239
+\i (00:00:10) trapsize 1918
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 12.4716 -5.0239
+\i (00:00:10) trapsize 1918
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 12.4716 -5.0239
+\i (00:00:11) trapsize 1918
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 12.4716 -5.0239
+\i (00:00:11) trapsize 1918
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 12.4716 -5.0239
+\i (00:00:11) trapsize 1918
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 12.4716 -5.0239
+\i (00:00:11) trapsize 1918
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 12.4716 -5.0239
+\i (00:00:11) trapsize 1918
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 12.4716 -5.0239
+\i (00:00:11) trapsize 959
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 4.6019 -5.0238
+\i (00:00:11) trapsize 479
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 4.6020 -5.0238
+\i (00:00:11) trapsize 240
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 4.6019 -5.0238
+\i (00:00:12) trapsize 120
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 4.6019 -5.0237
+\i (00:00:12) trapsize 60
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 4.6019 -5.0237
+\i (00:00:12) trapsize 120
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 4.6019 -5.0237
+\i (00:00:12) trapsize 240
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 4.6019 -5.0238
+\i (00:00:12) trapsize 479
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 4.6020 -5.0237
+\i (00:00:12) trapsize 959
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 4.6020 -5.0238
+\i (00:00:12) trapsize 1918
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 12.4716 -5.0239
+\i (00:00:12) trapsize 1918
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 12.4716 -5.0239
+\i (00:00:12) trapsize 1918
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 12.4716 -5.0239
+\i (00:00:12) trapsize 1918
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 12.4716 -5.0239
+\i (00:00:12) trapsize 1918
+\i (00:00:15) setwindow form.mini
+\i (00:00:15) FORM mini class BOARD GEOMETRY 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 22.4043 6.6346
+\i (00:00:15) trapsize 1918
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 22.4043 6.6346
+\i (00:00:15) trapsize 1918
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 22.4043 6.6346
+\i (00:00:15) trapsize 1918
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 22.4043 6.6346
+\i (00:00:15) trapsize 1918
+\i (00:00:19) pick grid 7.2943 11.9652
+\t (00:00:19) last pick:  7.6200 12.7000
+\i (00:00:26) exit 
+\t (00:00:26)     Journal end - Thu Jun 21 09:40:28 2018
