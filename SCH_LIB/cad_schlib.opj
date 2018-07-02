@@ -13,8 +13,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\cad_schlib.olb")
-      (Select "Design Resources" ".\cad_schlib.olb"))
+      (Path "Design Resources"
+         "e:\my jinan doc\bj reference doc\cadlib\sch_lib\cad_schlib.olb")
+      (Select "Design Resources"
+         "e:\my jinan doc\bj reference doc\cadlib\sch_lib\cad_schlib.olb"
+         "SW-3Pin"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -24,13 +27,13 @@
     (Doc
       (Type "COrPartDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 130 1703 130 603")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1435 78 441")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")
-        (Scroll "970 528")
-        (Zoom "248"))
+        (Scroll "1943 320")
+        (Zoom "410"))
       (Path "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
-      (Package "STM32F030CC-48pin")))
+      (Package "SW-3Pin")))
   (MPSSessionName "kon")
   (ISPCBBASICLICENSE "false"))
