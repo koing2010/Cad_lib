@@ -16,8 +16,7 @@
       (Path "Design Resources"
          "e:\my jinan doc\bj reference doc\cadlib\sch_lib\cad_schlib.olb")
       (Select "Design Resources"
-         "e:\my jinan doc\bj reference doc\cadlib\sch_lib\cad_schlib.olb"
-         "SW-3Pin"))
+         "e:\my jinan doc\bj reference doc\cadlib\sch_lib\cad_schlib.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -27,13 +26,13 @@
     (Doc
       (Type "COrPartDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1435 78 441")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1068 0 316")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")
-        (Scroll "1943 320")
-        (Zoom "410"))
+        (Scroll "1800 297")
+        (Zoom "252"))
       (Path "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
-      (Package "SW-3Pin")))
+      (Package "MP2451")))
   (MPSSessionName "kon")
   (ISPCBBASICLICENSE "false"))

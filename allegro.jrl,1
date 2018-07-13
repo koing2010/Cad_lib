@@ -1,0 +1,59 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Jul 13 09:46:03 2018
+\t (00:00:02)         Host=DESKTOP-S7SCATP User=kon Pid=17072 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe E:\my jinan doc\BJ reference doc\CadLib\sod323AC.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: E:/my jinan doc/BJ reference doc/CadLib/sod323AC.dra
+\i (00:00:02) trapsize 649
+\i (00:00:02) trapsize 678
+\i (00:00:02) trapsize 745
+\i (00:00:02) trapsize 779
+\i (00:00:03) trapsize 5577
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -1.9308 0.3932
+\i (00:00:08) trapsize 389
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -1.9308 0.3932
+\i (00:00:08) trapsize 195
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -1.9307 0.3933
+\i (00:00:09) trapsize 389
+\i (00:00:17) color192 
+\i (00:00:19) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:00:22) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:00:23) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:00:24) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:00:26) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:00:28) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:00:36) text edit 
+\i (00:00:38) pick grid -1.3156 0.3543
+\t (00:00:38) last pick:  -2.5400 0.0000
+\i (00:00:45) setwindow pcb
+\i (00:00:45) pick grid -1.1911 0.1051
+\t (00:00:45) last pick:  0.0000 0.0000
+\i (00:00:45) setwindow pcb
+\i (00:00:45) pick -1.3156 0.3543
+\t (00:00:45) Pick text to edit.
+\i (00:00:47) setwindow pcb
+\i (00:00:47) pick grid 1.2772 0.2063
+\t (00:00:47) last pick:  2.5400 0.0000
+\i (00:00:47) setwindow pcb
+\i (00:00:47) pick -1.1911 0.1051
+\i (00:00:49) setwindow pcb
+\i (00:00:49) pick 1.2772 0.2063
+\t (00:00:49) Pick text to edit.
+\i (00:00:53) setwindow pcb
+\i (00:00:53) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:00:57) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:00:58) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:00:58) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:01:02) exit 
+\e (00:01:02) Do you want to save the changes you made to sod323AC.dra?
+\i (00:01:03) fillin yes 
+\t (00:01:03) Symbol 'sod323ac.psm' created.
+\t (00:01:03)     Journal end - Fri Jul 13 09:47:05 2018

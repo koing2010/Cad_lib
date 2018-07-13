@@ -1,0 +1,2 @@
+cd "E:/my jinan doc/BJ reference doc/CadLib/SOT23-6N/SOT23-6N_Allegro"
+skill (LB_createFootprint "E:/my jinan doc/BJ reference doc/CadLib/SOT23-6N/SOT23-6N_Allegro/SOT23-6N.xml")

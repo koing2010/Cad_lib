@@ -1,0 +1,22 @@
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Jul 13 09:47:21 2018
+\t (00:00:03)         Host=DESKTOP-S7SCATP User=kon Pid=3584 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe E:\my jinan doc\BJ reference doc\CadLib\sod323ac12.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/my jinan doc/BJ reference doc/CadLib/sod323ac12.dra
+\i (00:00:03) trapsize 356
+\i (00:00:03) trapsize 372
+\i (00:00:03) trapsize 409
+\i (00:00:03) trapsize 428
+\i (00:00:03) trapsize 3065
+\i (00:00:13) create symbol 
+\i (00:00:15) fillin "sod323ac12.psm"
+\t (00:00:15) Creating package symbol 'E:/my jinan doc/BJ reference doc/CadLib/sod323ac12.psm'.
+\t (00:00:15) Starting Create symbol...
+\i (00:00:18) exit 
+\e (00:00:18) Do you want to save the changes you made to sod323ac12.dra?
+\i (00:00:19) fillin yes 
+\t (00:00:20) Symbol 'sod323ac12.psm' created.
+\t (00:00:20)     Journal end - Fri Jul 13 09:47:38 2018
