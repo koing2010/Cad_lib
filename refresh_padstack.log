@@ -1,0 +1,49 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : smct6_3x7_7MM.dra                             )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Thu Jul 19 11:46:35 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Jul 19 11:46:35 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'E:/my jinan doc/BJ reference doc/CadLib/smct6_3x7_7MM.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/cadence/cadence_spb_17.2-2016/share/local/pcb/padstacks 
+           c:/cadence/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols 
+           c:/cadence/cadence/cadence_spb_17.2-2016/share/pcb/allegrolib/symbols 
+           E:/my jinan doc/BJ reference doc/CadLib 
+           E:/my jinan doc/BJ reference doc/CadLib 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/cadence/cadence_spb_17.2-2016/share/local/pcb/padstacks 
+           c:/cadence/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols 
+           c:/cadence/cadence/cadence_spb_17.2-2016/share/pcb/allegrolib/symbols 
+           E:/my jinan doc/BJ reference doc/CadLib 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD_X2_7Y1_0'  pad stack refresh starting.
+
+     'SMD_X2_7Y1_0'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

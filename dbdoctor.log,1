@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smct6_3x7_7MM.dra                             )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Thu Jul 19 11:45:32 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in PAD STACK padstack name = SMD_X2_7Y1_0
+  WARNING(SPMHA1-120): Illegal pad size.
+   Error cannot be fixed.
+
+ERROR: in PAD STACK padstack name = SMD_X2_7Y1_0
+  WARNING(SPMHA1-120): Illegal pad size.
+   Error cannot be fixed.
+
+ERROR: in PAD STACK padstack name = SMD_X2_7Y1_0
+  WARNING(SPMHA1-120): Illegal pad size.
+   Error cannot be fixed.
+
+0 warnings, 3 errors detected, 0 errors  fixed.

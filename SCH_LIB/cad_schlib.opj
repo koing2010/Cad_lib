@@ -16,7 +16,8 @@
       (Path "Design Resources"
          "e:\my jinan doc\bj reference doc\cadlib\sch_lib\cad_schlib.olb")
       (Select "Design Resources"
-         "e:\my jinan doc\bj reference doc\cadlib\sch_lib\cad_schlib.olb"))
+         "e:\my jinan doc\bj reference doc\cadlib\sch_lib\cad_schlib.olb"
+         "MicroSDCard"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -26,13 +27,35 @@
     (Doc
       (Type "COrPartDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1068 0 316")
+        (Placement "44 0 1 -1 -1 -8 -31 234 1487 234 765")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")
-        (Scroll "1800 297")
-        (Zoom "252"))
+        (Scroll "5524 2066")
+        (Zoom "1008"))
       (Path "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
-      (Package "MP2451")))
+      (Package "Feber"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 260 1513 260 791")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "5221 1925")
+        (Zoom "1008"))
+      (Path "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
+      (Package "FB"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1253 0 531")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1468 505")
+        (Zoom "343"))
+      (Path "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
+      (Package "MicroSDCard")))
   (MPSSessionName "kon")
   (ISPCBBASICLICENSE "false"))

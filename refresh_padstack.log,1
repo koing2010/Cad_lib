@@ -1,0 +1,51 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : DC5mmSocket.dra                               )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Thu Jul 19 11:43:01 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Jul 19 11:43:01 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'E:/my jinan doc/BJ reference doc/CadLib/DC5mmSocket.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/cadence/cadence_spb_17.2-2016/share/local/pcb/padstacks 
+           c:/cadence/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols 
+           c:/cadence/cadence/cadence_spb_17.2-2016/share/pcb/allegrolib/symbols 
+           E:/my jinan doc/BJ reference doc/CadLib 
+           E:/my jinan doc/BJ reference doc/CadLib 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/cadence/cadence_spb_17.2-2016/share/local/pcb/padstacks 
+           c:/cadence/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols 
+           c:/cadence/cadence/cadence_spb_17.2-2016/share/pcb/allegrolib/symbols 
+           E:/my jinan doc/BJ reference doc/CadLib 
+
+
+------ Pad Stack Refresh Messages ------
+
+'THRU_X3_0Y0_8R0_4'  pad stack refresh starting.
+
+     'THRU_X3_0Y0_8R0_4'  pad stack refreshed successfully.
+     
+WARNING(SPMHNI-253): Unable to find pad stack, 'DC-5MM', in directory search path.
+
+WARNING(SPMHNI-286): Completed refreshing all pad stacks successfully. Warnings detected.
