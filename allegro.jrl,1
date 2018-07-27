@@ -1,104 +1,88 @@
-\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Thu Jul 19 11:42:46 2018
-\t (00:00:03)         Host=DESKTOP-S7SCATP User=kon Pid=21392 CPUs=8
-\t (00:00:03) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe E:\my jinan doc\BJ reference doc\CadLib\DC5mmSocket.dra
-\t (00:00:03) 
-   (00:00:03) Loading axlcore.cxt 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: E:/my jinan doc/BJ reference doc/CadLib/DC5mmSocket.dra
-\i (00:00:03) trapsize 1208
-\i (00:00:04) trapsize 1259
-\i (00:00:04) trapsize 1259
-\i (00:00:04) trapsize 1221
-\i (00:00:04) trapsize 10526
+\t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Thu Jul 19 11:45:23 2018
+\t (00:00:04)         Host=DESKTOP-S7SCATP User=kon Pid=21448 CPUs=8
+\t (00:00:04) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe E:\my jinan doc\BJ reference doc\CadLib\smct6_3x7_7MM.dra
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/my jinan doc/BJ reference doc/CadLib/smct6_3x7_7MM.dra
+\i (00:00:04) trapsize 622
+\i (00:00:04) trapsize 637
+\i (00:00:04) trapsize 689
+\i (00:00:04) trapsize 706
+\i (00:00:04) trapsize 9632
 \i (00:00:04) generaledit 
-\i (00:00:07) dbdoctor 
-\i (00:00:08) setwindow form.dbdoctor_allegro
-\i (00:00:08) FORM dbdoctor_allegro execute  
-\t (00:00:08) Dbdoctor in progress - wait...
-\t (00:00:08) Checking db records
-\t (00:00:08)     checking for orphans...
-\t (00:00:08)     Checked 100 percent
-\t (00:00:08) Done dbdoctor.
-\t (00:00:08) Checking db records
-\t (00:00:08)     checking for orphans...
-\t (00:00:08)     Checked 100 percent
-\t (00:00:08) Done dbdoctor.
-\t (00:00:08) Dbdoctor completed.
-\i (00:00:11) setwindow text
-\i (00:00:11) close 
+\i (00:00:11) dbdoctor 
 \i (00:00:12) setwindow form.dbdoctor_allegro
-\i (00:00:12) FORM dbdoctor_allegro close  
-\i (00:00:12) setwindow pcb
-\i (00:00:12) generaledit 
-\i (00:00:16) refresh padstack 
-\i (00:00:17) setwindow form.rf_pad
-\i (00:00:17) FORM rf_pad execute  
-\t (00:00:17) Starting Refreshing padstacks...
-\t (00:00:18) Opening existing design...
-\i (00:00:18) setwindow pcb
-\i (00:00:18) trapsize 1172
-\i (00:00:18) trapsize 1221
-\i (00:00:18) trapsize 1221
-\i (00:00:20) setwindow form.rf_pad
-\i (00:00:20) FORM rf_pad cancel  
-\i (00:00:21) setwindow pcb
-\i (00:00:21) generaledit 
-\i (00:00:24) dbdoctor 
-\i (00:00:25) setwindow form.dbdoctor_allegro
-\i (00:00:25) FORM dbdoctor_allegro execute  
-\t (00:00:25) Dbdoctor in progress - wait...
-\t (00:00:25) Checking db records
-\t (00:00:25)     checking for orphans...
-\t (00:00:25)     Checked 100 percent
-\t (00:00:25) Done dbdoctor.
-\t (00:00:25) Checking db records
-\t (00:00:25)     checking for orphans...
-\t (00:00:25)     Checked 100 percent
-\t (00:00:25) Done dbdoctor.
-\t (00:00:25) Dbdoctor completed.
-\i (00:00:28) setwindow text
-\i (00:00:28) close 
-\i (00:00:29) setwindow form.dbdoctor_allegro
-\i (00:00:29) FORM dbdoctor_allegro close  
-\i (00:00:29) setwindow pcb
-\i (00:00:29) generaledit 
-\i (00:00:35) padeditdb 
-\i (00:00:37) setwindow form.mini
-\i (00:00:37) FORM mini padlist DC-5MM 
-\i (00:00:40) FORM mini pad_stack_edit  
-\i (00:01:11) setwindow pcb
-\i (00:01:11) refresh padstack 
-\i (00:01:13) setwindow form.rf_pad
-\i (00:01:13) FORM rf_pad execute  
-\t (00:01:13) Starting Refreshing padstacks...
-\t (00:01:13) Opening existing design...
-\i (00:01:13) setwindow pcb
-\i (00:01:13) trapsize 1172
-\i (00:01:13) trapsize 1221
-\i (00:01:14) trapsize 1221
-\i (00:01:17) dbdoctor 
-\i (00:01:18) setwindow form.dbdoctor_allegro
-\i (00:01:18) FORM dbdoctor_allegro execute  
-\t (00:01:18) Dbdoctor in progress - wait...
-\t (00:01:18) Checking db records
-\t (00:01:18)     checking for orphans...
-\t (00:01:18)     Checked 100 percent
-\t (00:01:18) Done dbdoctor.
-\t (00:01:18) Dbdoctor completed.
-\i (00:01:20) FORM dbdoctor_allegro execute  
-\t (00:01:20) Dbdoctor in progress - wait...
-\t (00:01:20) Checking db records
-\t (00:01:20)     checking for orphans...
-\t (00:01:20)     Checked 100 percent
-\t (00:01:20) Done dbdoctor.
-\t (00:01:20) Dbdoctor completed.
-\i (00:01:21) FORM dbdoctor_allegro close  
-\i (00:01:21) setwindow pcb
-\i (00:01:21) generaledit 
-\i (00:01:22) exit 
-\e (00:01:22) Do you want to save the changes you made to E:/my jinan doc/BJ reference doc/CadLib/DC5mmSocket.dra?
-\i (00:01:24) fillin yes 
-\t (00:01:24) Symbol 'dc5mmsocket.psm' created.
-   (00:01:24) Loading signal.cxt 
-\t (00:01:25)     Journal end - Thu Jul 19 11:44:07 2018
+\i (00:00:12) FORM dbdoctor_allegro execute  
+\t (00:00:12) Dbdoctor in progress - wait...
+\t (00:00:12) Checking db records
+\t (00:00:12)     checking for orphans...
+\t (00:00:12)     Checked 100 percent
+\t (00:00:12) Done dbdoctor.
+\t (00:00:12) Checking db records
+\t (00:00:12)     checking for orphans...
+\t (00:00:12)     Checked 100 percent
+\t (00:00:12) Done dbdoctor.
+\t (00:00:12) Dbdoctor completed.
+\i (00:00:14) setwindow text
+\i (00:00:14) close 
+\i (00:00:15) setwindow form.dbdoctor_allegro
+\i (00:00:15) FORM dbdoctor_allegro close  
+\i (00:00:16) setwindow pcb
+\i (00:00:16) generaledit 
+\i (00:00:18) padeditdb 
+\i (00:00:19) setwindow form.mini
+\i (00:00:19) FORM mini padlist SMD_X2_7Y1_0 
+\i (00:00:21) FORM mini pad_stack_edit  
+\i (00:01:03) setwindow pcb
+\i (00:01:03) dbdoctor 
+\i (00:01:04) setwindow form.dbdoctor_allegro
+\i (00:01:04) FORM dbdoctor_allegro execute  
+\t (00:01:04) Dbdoctor in progress - wait...
+\t (00:01:04) Checking db records
+\t (00:01:04)     checking for orphans...
+\t (00:01:04)     Checked 100 percent
+\t (00:01:04) Done dbdoctor.
+\t (00:01:04) Checking db records
+\t (00:01:04)     checking for orphans...
+\t (00:01:04)     Checked 100 percent
+\t (00:01:04) Done dbdoctor.
+\t (00:01:04) Dbdoctor completed.
+\i (00:01:06) setwindow text
+\i (00:01:06) close 
+\i (00:01:08) setwindow form.dbdoctor_allegro
+\i (00:01:08) FORM dbdoctor_allegro close  
+\i (00:01:08) setwindow pcb
+\i (00:01:08) generaledit 
+\i (00:01:14) refresh padstack 
+\i (00:01:15) setwindow form.rf_pad
+\i (00:01:15) FORM rf_pad execute  
+\t (00:01:15) Starting Refreshing padstacks...
+\t (00:01:15) Opening existing design...
+\i (00:01:15) setwindow pcb
+\i (00:01:15) trapsize 689
+\i (00:01:15) trapsize 706
+\i (00:01:15) trapsize 706
+\i (00:01:18) setwindow form.rf_pad
+\i (00:01:18) FORM rf_pad cancel  
+\i (00:01:19) setwindow pcb
+\i (00:01:19) generaledit 
+\i (00:01:20) dbdoctor 
+\i (00:01:22) setwindow form.dbdoctor_allegro
+\i (00:01:22) FORM dbdoctor_allegro execute  
+\t (00:01:22) Dbdoctor in progress - wait...
+\t (00:01:22) Checking db records
+\t (00:01:22)     checking for orphans...
+\t (00:01:22)     Checked 100 percent
+\t (00:01:22) Done dbdoctor.
+\t (00:01:22) Dbdoctor completed.
+\i (00:01:25) FORM dbdoctor_allegro close  
+\i (00:01:25) setwindow pcb
+\i (00:01:25) generaledit 
+\i (00:01:27) exit 
+\e (00:01:27) Do you want to save the changes you made to E:/my jinan doc/BJ reference doc/CadLib/smct6_3x7_7MM.dra?
+\i (00:01:28) fillin yes 
+\t (00:01:28) Symbol 'smct6_3x7_7mm.psm' created.
+   (00:01:28) Loading signal.cxt 
+\t (00:01:28)     Journal end - Thu Jul 19 11:46:48 2018

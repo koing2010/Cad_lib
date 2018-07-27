@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : sod323ac12.dra                                )
+(    Drawing          : sod323ac21.dra                                )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Fri Jul 13 09:47:34 2018                      )
+(    Date/Time        : Wed Jul 25 09:46:25 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
     Directory = E:/my jinan doc/BJ reference doc/CadLib
-    Name      = sod323ac12.psm
+    Name      = sod323ac21.psm
     User      = kon
     Machine   = DESKTOP-S7SCATP
 
