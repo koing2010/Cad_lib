@@ -14,15 +14,12 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "e:\my jinan doc\bj reference doc\cadlib\sch_lib\cad_schlib.olb")
-      (Select "Design Resources"
-         "e:\my jinan doc\bj reference doc\cadlib\sch_lib\cad_schlib.olb"
-         "LMUN2233LT1G"))
+         "e:\my jinan doc\bj reference doc\cadlib\sch_lib\cad_schlib.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 434"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 292 0 434"))
       (Tab 0))
     (Doc
       (Type "COrPartDoc")
@@ -34,6 +31,17 @@
         (Scroll "4792 1079")
         (Zoom "725"))
       (Path "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
-      (Package "2sk3475")))
+      (Package "2sk3475"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1435 78 466")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2761 408")
+        (Zoom "518"))
+      (Path "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
+      (Package "78L05")))
   (MPSSessionName "kon")
   (ISPCBBASICLICENSE "false"))
