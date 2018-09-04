@@ -19,29 +19,18 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 292 0 434"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 292 0 500"))
       (Tab 0))
     (Doc
       (Type "COrPartDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 234 1807 234 707")
+        (Placement "44 0 1 -1 -1 -8 -31 130 1409 130 638")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")
-        (Scroll "4792 1079")
-        (Zoom "725"))
+        (Scroll "3759 1196")
+        (Zoom "708"))
       (Path "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
-      (Package "2sk3475"))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1435 78 466")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "2761 408")
-        (Zoom "518"))
-      (Path "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
-      (Package "78L05")))
+      (Package "DIODE")))
   (MPSSessionName "kon")
   (ISPCBBASICLICENSE "false"))
